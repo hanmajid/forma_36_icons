@@ -1,5 +1,7 @@
 # Forma 36 Icons
 
+[![pub package](https://img.shields.io/pub/v/forma_36_icons.svg)](https://pub.dev/packages/forma_36_icons)
+
 Unofficial Flutter package for **Contentful's Forma 36 UI Kit icons**. Forma 36 UI Kit is made by [Contentful](https://www.figma.com/@contentful) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Installation
@@ -10,27 +12,6 @@ Add `forma_36_icons` dependency to your Flutter project:
 dependencies:
   forma_36_icons: ^<latest-version>
 ```
-
-### Installation (Local)
-
-If you purchased this package from marketplace, follow instructions below to use this package:
-
-1. Put `forma_36_icons` package folder in the same folder as your Flutter project like shown below:
-   ```
-   └── my_working_directory/
-       ├── forma_36_icons/                   # Place package folder here
-       └── my_awesome_flutter_project/      # Place your Flutter project folder here
-   ```
-2. In your `pubspec.yaml` file, add `forma_36_icons` as local dependency in your Flutter project:
-   ```yaml
-   dependencies:
-     forma_36_icons:
-       path: ../forma_36_icons
-   ```
-3. Update your Flutter project dependencies by running:
-   ```
-   flutter pub get
-   ```
 
 ## Usage
 
@@ -52,7 +33,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/forma_
 
 ## Icons
 
-<img src="forma-36-icons.png">
+<img src="https://raw.githubusercontent.com/hanmajid/forma_36_icons/refs/heads/master/forma-36-icons.png">
 
 All Forma 36 icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1099314541500153018).
 
